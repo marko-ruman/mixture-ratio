@@ -1,0 +1,7 @@
+README.md
+setup.py
+mixture_ratio.egg-info/PKG-INFO
+mixture_ratio.egg-info/SOURCES.txt
+mixture_ratio.egg-info/dependency_links.txt
+mixture_ratio.egg-info/not-zip-safe
+mixture_ratio.egg-info/top_level.txt
